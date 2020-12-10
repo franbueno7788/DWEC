@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>Click<a href="https://dwec.herokuapp.com/index.html"> here</a>to see the project</p>
+<p>Click<a href="https://dwec.herokuapp.com/index.html"> here </a>to see the project</p>
 
 This project is about a website where you can stream video and communicate with your viewers.
 
